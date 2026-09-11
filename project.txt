@@ -3,3 +3,4 @@ project description
 developer name
 dd|mm|yyyy
 version 2
+version 4
