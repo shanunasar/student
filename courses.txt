@@ -1,4 +1,3 @@
-
 crse1 10k
 crse2 20k
 crse3 30k
